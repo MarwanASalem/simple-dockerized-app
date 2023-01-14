@@ -47,11 +47,11 @@
 							]
 						},
 						"url": {
-							"raw": "localhost:3000/applications/",
+							"raw": "localhost:8080/applications/",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								""
@@ -79,11 +79,11 @@
 							]
 						},
 						"url": {
-							"raw": "localhost:3000/applications/",
+							"raw": "localhost:8080/applications/",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								""
@@ -103,11 +103,11 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats",
+							"raw": "localhost:8080/applications/{{token}}/chats",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -136,11 +136,11 @@
 							]
 						},
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/1/",
+							"raw": "localhost:8080/applications/{{token}}/chats/1/",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -165,11 +165,11 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/",
+							"raw": "localhost:8080/applications/{{token}}/chats/",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -191,11 +191,11 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/1/messages?message=hello my name is",
+							"raw": "localhost:8080/applications/{{token}}/chats/1/messages?message=hello my name is",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -232,11 +232,11 @@
 							]
 						},
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/1/messages/1",
+							"raw": "localhost:8080/applications/{{token}}/chats/1/messages/1",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -262,11 +262,11 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/1/messages/",
+							"raw": "localhost:8080/applications/{{token}}/chats/1/messages/",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
@@ -285,11 +285,11 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "localhost:3000/applications/{{token}}/chats/1/messages/search?query=my",
+							"raw": "localhost:8080/applications/{{token}}/chats/1/messages/search?query=my",
 							"host": [
 								"localhost"
 							],
-							"port": "3000",
+							"port": "8080",
 							"path": [
 								"applications",
 								"{{token}}",
